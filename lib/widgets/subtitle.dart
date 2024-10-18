@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+//widget de subtitulos
+
 class Subtitle extends StatelessWidget {
   final String text;
   const Subtitle({

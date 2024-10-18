@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+//adapatador de contenedores para porcentaje de altoxancho en pantallas
+
 class AdaptativeContainer extends StatelessWidget {
   final Widget child;
   final Color color;
