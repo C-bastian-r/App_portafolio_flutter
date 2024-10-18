@@ -13,7 +13,7 @@ class Circularimage extends StatelessWidget {
       width: 150,
       height: 150,
       child: ClipOval(
-        child: Image.network(
+        child: Image.asset(
           path,
           fit: BoxFit.cover,
         ),
