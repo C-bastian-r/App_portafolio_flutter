@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+//texto con shader de gradiante
+
 class TextGradiant extends StatefulWidget {
   final String textValue;
   const TextGradiant({

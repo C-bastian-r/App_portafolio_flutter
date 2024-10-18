@@ -23,8 +23,8 @@ class AdaptativeContainer extends StatelessWidget {
     var screenHeight = screenSize.height;
 
     return Container(
-      width: screenWidth * widthPercent, // 80% del ancho total de pantalla
-      height: screenHeight * heightPercent, // 80% del alto total de pantalla
+      width: screenWidth * widthPercent, // % del ancho total de pantalla
+      height: screenHeight * heightPercent, // % del alto total de pantalla
       color: color, // Aplica el color pasado como parámetro
       margin: margin, // Aplica el margin pasado como parámetro
       padding: padding,

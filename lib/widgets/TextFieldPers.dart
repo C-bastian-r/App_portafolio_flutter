@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+//campo de texto personalizado
+
 class Textfield_Pers extends StatelessWidget {
   final String text;
   const Textfield_Pers({
